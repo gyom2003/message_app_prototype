@@ -1,0 +1,7 @@
+guillaume2@laposte.net
+mdptest12345
+
+guillaume3@laposte.net
+mdptest123
+
+error: The password is invalid or the user does not have a password., null

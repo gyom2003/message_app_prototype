@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81555647791",
+    "firebase_url": "https://adresse-email-mdp-login.firebaseio.com",
+    "project_id": "adresse-email-mdp-login",
+    "storage_bucket": "adresse-email-mdp-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81555647791:android:32b10fb0c8ca1ec65485da",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81555647791-4br1htcup3qdjrrp2kkjinkvgtai5jpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_project",
+            "certificate_hash": "c7f644b1477c33031857d02804073b5fd362184d"
+          }
+        },
+        {
+          "client_id": "81555647791-md2ud5qadojqeqnq0ivv13t3qlqomdis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXc4xxafLDCB834rtHlSV2xZIfTGr3iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81555647791-md2ud5qadojqeqnq0ivv13t3qlqomdis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
